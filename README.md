@@ -5,7 +5,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arashsarabi) 
-[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=google-chrome&logoColor=white)](https://www.arash.asrabi.com)
+[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=google-chrome&logoColor=white)](https://www.arash.asarabi.com)
 
 
 # 💻 Tech Stack:
