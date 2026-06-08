@@ -13,10 +13,6 @@ If you're into distributed systems, networking protocols, or scalable AI infrast
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ArashSr&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ArashSr&show_icons=true&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ArashSr&background=00000000&hide_border=true&theme=tokyonight" />
     <img src="https://streak-stats.demolab.com/?user=ArashSr&background=00000000&hide_border=true" height="165" />
   </picture>
